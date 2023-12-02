@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{42813E89-95FD-4B9A-BC55-7D429A53A787}|Default">
+  <MonoDevelop.Ide.ItemProperties.Weekend_220Challange_220ChatGPT PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Weekend Challange ChatGPT/Program.cs">
+    <Files>
+      <File FileName="Weekend Challange ChatGPT/Program.cs" Line="47" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Weekend Challange Solution" expanded="True">
+            <Node name="Weekend Challange ChatGPT" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

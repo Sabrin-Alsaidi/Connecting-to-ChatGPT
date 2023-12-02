@@ -1,0 +1,21 @@
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/bin/Debug/net6.0/Weekend Challange ChatGPT
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/bin/Debug/net6.0/Weekend Challange ChatGPT.deps.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/bin/Debug/net6.0/Weekend Challange ChatGPT.runtimeconfig.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/bin/Debug/net6.0/Weekend Challange ChatGPT.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/bin/Debug/net6.0/Weekend Challange ChatGPT.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/obj/Debug/net6.0/Weekend Challange ChatGPT.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/obj/Debug/net6.0/Weekend Challange ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/obj/Debug/net6.0/Weekend Challange ChatGPT.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/obj/Debug/net6.0/Weekend Challange ChatGPT.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/obj/Debug/net6.0/Weekend Challange ChatGPT.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/obj/Debug/net6.0/Weekend Challange ChatGPT.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/obj/Debug/net6.0/refint/Weekend Challange ChatGPT.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/obj/Debug/net6.0/Weekend Challange ChatGPT.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/obj/Debug/net6.0/Weekend Challange ChatGPT.genruntimeconfig.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/obj/Debug/net6.0/ref/Weekend Challange ChatGPT.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/obj/Debug/net6.0/Weekend Challange ChatGPT.csproj.CopyComplete
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/bin/Debug/net6.0/System.Net.Http.Extensions.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/bin/Debug/net6.0/System.Net.Http.Primitives.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Weekend Challange Solution/Weekend Challange ChatGPT/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
