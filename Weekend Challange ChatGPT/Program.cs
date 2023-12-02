@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 class Program
 {
     //private static HttpClient httpClient = new HttpClient();
-    public static string apiKey = "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";
+    public static string apiKey = " Put-Your-APIKey ";
     public static string apiURL = "https://api.openai.com/v1/completions";
 
     static async Task Main()
